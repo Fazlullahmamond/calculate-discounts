@@ -13,11 +13,11 @@ option to go back to Menu or Exit the program.
   ![screenshot](main.png)
 
 ## Functionality
-1- Create Employee
-2- Create Item
-3- Make Purchase
-4- All Employee Summary
-5- Exit
+- Create Employee
+- Create Item
+- Make Purchase
+- All Employee Summary
+- Exit
 
 - Get the code:
     ```
